@@ -6,10 +6,6 @@ void setup()  {
   image(img,0,0);
 }
 
-void draw()  {
-  save("Jeffrey_halloween");
-}
-
 void mouseDragged()  {
   noStroke();
   fill(0,0,0);
