@@ -7,7 +7,7 @@ void setup()  {
 }
 
 void draw()  {
-  save("Jeffrey_halloween");
+  
 }
 
 void mouseDragged()  {
